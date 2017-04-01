@@ -1,0 +1,10 @@
+wumbology bot
+
+search for wumbo in all strings except comments and usernames posted by this bot
+-limit comments to one every 8 minutes.
+
+"He, she, we, Wumbo"
+"Wumbology, the study of Wumbo"
+"Did you try setting it to Wumbo"
+"It should be set to W for Wumbo"
+"Wumbo, Wumboing..."
